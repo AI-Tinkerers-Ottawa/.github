@@ -3,3 +3,17 @@
 Created as a demo for the [[https://lu.ma/omzsd5p6?tk=zktvA7]["Supercharged Local Dev Environments with Supabase"]] talk.
 
 [[https://builtwithnix.org/badge.svg]]
+
+* Contributing
+
+1. Clone repo
+    #+begin_src bash
+    git clone https://github.com/AI-Tinkerers-Ottawa/.github.git
+    cd .github
+    #+end_src
+
+2. Dry run install script
+    #+begin_src bash
+    chmod +x install
+    ./install
+    #+end_src
