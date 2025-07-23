@@ -1,0 +1,46 @@
+name: "🐛 Bug report"
+description: "Report a reproducible problem on the AI Tinkerers Ottawa Platform."
+title: "[Bug]: <short description>"
+labels: ["Bug", "Needs triage"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for reporting a bug! Please fill out all required sections so we can reproduce and fix it quickly.
+  - type: input
+    id: env
+    attributes:
+      label: Environment
+      description: "Browser, OS, network,  versions, etc."
+      placeholder: "e.g. Chrome 126 / macOS 14.2 "
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to reproduce
+      description: "Be as precise as possible and include screenshots or screen recordings if helpful."
+      placeholder: |
+        1. Go to ai-tinkerers-ottawa.ca
+        2. Click contact button
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: Expected behavior
+      placeholder: "It should open a page or a form."
+    validations:
+      required: true
+  - type: textarea
+    id: actual
+    attributes:
+      label: Actual behavior
+      placeholder: "I get rick rolled."
+    validations:
+      required: true
+  - type: textarea
+    id: logs
+    attributes:
+      label: Relevant log output / screenshots
+      description: "Paste console logs or attach images (drag & drop)."
