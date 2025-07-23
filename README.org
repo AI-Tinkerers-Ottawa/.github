@@ -1,4 +1,4 @@
-AI Tinkerers Ottawa Platform
+[[assets/ai-tinkerers-ottawa-banner.png]]
 
 Created as a demo for the [[https://lu.ma/omzsd5p6?tk=zktvA7]["Supercharged Local Dev Environments with Supabase"]] talk.
 
