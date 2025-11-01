@@ -1,5 +1,5 @@
 <div align="center">
- <h1>AI Tinkerers Ottawa</h1>
+ <h1>AGI Ventures Canada</h1>
 </div>
 
 | [✨ Luma](https://lu.ma/ai-tinkerers-ottawa?k=c) | [🗣️ Discord](https://discord.gg/w4C8yr5vGy) | [👩‍💻 Devpost](https://eh-i-summer-vibe-hackathon.devpost.com) | [👋 Website](https://ottawa.aitinkerers.org) |
